@@ -38,7 +38,7 @@ get a verdict, sign nothing:
   simulation plus a safety verdict (`SIMULATION_OK` or `REFUSE`).
 - `GET /` for usage, `GET /health` for status.
 
-[ENDPOINT URL — added after deployment]
+Live demo: https://fastmint-guard.lumengray123.workers.dev
 
 ## Honest limits
 
